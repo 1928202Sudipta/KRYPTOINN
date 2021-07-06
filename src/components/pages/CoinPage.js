@@ -42,6 +42,7 @@ function CoinPage() {
       <div className='coin-app'>
         <div className='coin-search'>
           <h1 className='coin-text'>Track a Crypto </h1>
+          <h3 className='Ct'> Click on The Name Of Crypto To Get The Performance Graph </h3>
           <form>
             <input
               className='coin-input'
